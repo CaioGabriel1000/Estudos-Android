@@ -43,14 +43,16 @@ public class MainActivity extends AppCompatActivity {
             } catch (Exception e) {
                 return "Tente novamente outra idade!";
             }
-            if (i <= 12) {
+            if (i >= 0 && i <= 12) {
                 return "Criança!";
             } else if (i > 12 && i < 18) {
                 return "Adolescente!";
             } else if (i >= 18 && i < 60) {
                 return "Adulto!";
-            } else {
+            } else if (i >= 60) {
                 return "Idoso!";
+            } else {
+                return "Idade inválida!";
             }
         } else {
             return "Idade inválida!";
