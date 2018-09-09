@@ -1,4 +1,4 @@
-package com.caio.caiogabrielnunesappcalculadoraidade;
+package com.caiogabrielnunes.calculadoraimc;
 
 import org.junit.Test;
 
