@@ -1,4 +1,4 @@
-package com.caiogabrielnunes.calculadoraimc;
+package com.caiogabrielnunes.calculadorapesoideal.calculadorapesoideal;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.caiogabrielnunes.calculadoraimc", appContext.getPackageName());
+        assertEquals("com.caiogabrielnunes.calculadorapesoideal.calculadorapesoideal", appContext.getPackageName());
     }
 }

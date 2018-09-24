@@ -1,4 +1,4 @@
-package com.caiogabrielnunes.calculadoraimc;
+package com.caiogabrielnunes.calculadorapesoideal.calculadorapesoideal;
 
 import org.junit.Test;
 
