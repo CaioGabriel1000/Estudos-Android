@@ -1,4 +1,4 @@
-package com.caiogabrielnunes.calculadorapesoideal.calculadorapesoideal;
+package com.caiogabrielnunes.cicloactivity;
 
 import org.junit.Test;
 
