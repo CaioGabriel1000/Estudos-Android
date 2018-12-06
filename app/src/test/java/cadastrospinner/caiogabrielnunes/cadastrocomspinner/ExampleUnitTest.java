@@ -1,4 +1,4 @@
-package com.caiogabrielnunes.cicloactivity;
+package cadastrospinner.caiogabrielnunes.cadastrocomspinner;
 
 import org.junit.Test;
 

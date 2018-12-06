@@ -1,4 +1,4 @@
-package com.caiogabrielnunes.cicloactivity;
+package cadastrospinner.caiogabrielnunes.cadastrocomspinner;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.caiogabrielnunes.cicloactivity", appContext.getPackageName());
+        assertEquals("cadastrospinner.caiogabrielnunes.cadastrocomspinner", appContext.getPackageName());
     }
 }

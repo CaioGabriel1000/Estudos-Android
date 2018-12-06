@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">CicloActivity</string>
+    <string name="app_name">Cadastro Com Spinner</string>
+    <string-array name="sexo">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
 </resources>
